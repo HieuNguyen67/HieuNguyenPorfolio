@@ -10,7 +10,7 @@ export const projectsData = [
     projectDesc: "This project is about clone Apple website.",
     tags: ["React", "SAAS", "React Bootstrap"],
     code: "https://github.com/HieuNguyen67/React-Apple",
-    demo: "https://hieunguyen67.github.io/React-Apple/",
+    demo: "https://react-apple-swart.vercel.app/",
     image: six,
   },
   {
@@ -20,7 +20,7 @@ export const projectsData = [
       "This project is a tour booking website with data, users can log in and book tours.",
     tags: ["React", "Nodejs", "Express", "React Bootstrap", "MySQL"],
     code: "https://github.com/HieuNguyen67/TourDuLichTravel",
-    demo: "https://hieunguyen67.github.io/TourDuLichTravel/",
+    demo: "https://tour-du-lich-travel.vercel.app/",
     image: seven,
   },
 ];
