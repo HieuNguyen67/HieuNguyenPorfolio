@@ -1,7 +1,7 @@
 export const aboutData = {
   title: "Who I am",
   description1:
-    "Currently, I am a final year student who is self-taught and seriously determined on becoming a good frontend developer. I have some experience working with Node + Express and ReactJS.",
+    "Iam final year Information Technology student who has completed the entire academic program and is currently awaiting graduation. Throughout my studies,I have built a solid foundation in programming, web development, databases, and emerging technologies.",
   description2:
-    "A quick learner with a self-learning attitude. I love to learn and explore new technologies and am Passionate about Problem Solving. Love almost all the stacks of Software Engineering. My current stack includes  React, React-Bootstrap, Material UI, Axios, etc.",
+    "I am continuously learning and honing mypractical skills through personal and group projects. With a passion for technology and dedication to my work, I am eagerto find opportunities to apply the knowledge I have gained and advance mycareer in the field of Information Technology.",
 };
