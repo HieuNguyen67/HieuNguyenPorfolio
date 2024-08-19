@@ -51,8 +51,8 @@ export const projectsData = [
       "API Google translate",
       "React Bootstrap",
     ],
-    code: "https://github.com/HieuNguyen67/React-Apple",
-    demo: "https://react-apple-swart.vercel.app/",
+    code: "https://github.com/HieuNguyen67/AI-Translate-Image",
+    demo: "https://ai-translate-image-fawn.vercel.app/",
     image: ten,
   },
   {
