@@ -29,15 +29,16 @@ export const projectsData = [
     projectDesc:
       "My project is a comprehensive football website developed to provide football fans with a multifunctional platform for staying informed and entertained.",
     tags: [
-      "JQuery",
+      "Next.js",
+      "Typescript",
+      "Tailwind CSS",
       "Nodejs",
       "Express",
-      "Bootstrap",
       "PostgreSQL",
       "ResfulAPI",
     ],
-    code: "https://github.com/HieuNguyen67/Free-Football",
-    demo: "https://free-football.netlify.app/",
+    code: "https://github.com/HieuNguyen67/FreeFootball-Nextjs",
+    demo: "https://free-football-nextjs.vercel.app/",
     image: nine,
   },
   {
